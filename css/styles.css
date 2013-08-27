@@ -2,6 +2,7 @@ body {
     margin: 50px auto;
     background-color: #292929;
     max-width: 1024px;
+    font-family: 'Cherry Swash' , sans-serif;
 }
 
 * { color: #A5BA2F; }
