@@ -31,3 +31,26 @@ p.content-warning {
   background-repeat: no-repeat;
   background-position: left center;
 }
+
+div.image-wrap {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  border: 1px solid #A5BA2F;
+  background: #393939;
+  padding: 1em;
+}
+
+div.image-wrap img {
+  clear: both;
+}
+
+div.image-wrap .caption {
+  display: block;
+  width: 100%;
+  clear: both;
+  font-size: 18pt;
+  text-shadow: 0 0 5px #859A0F;
+}
+  
