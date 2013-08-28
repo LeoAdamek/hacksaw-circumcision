@@ -40,10 +40,14 @@ div.image-wrap {
   border: 1px solid #A5BA2F;
   background: #393939;
   padding: 1em;
+  border-radius: 1em;
+  box-shadow: 0 0px 5px #859A0F;
 }
 
 div.image-wrap img {
   clear: both;
+  border-radius: 10px;
+  box-shadow: 0 3px 0 #202020;
 }
 
 div.image-wrap .caption {
